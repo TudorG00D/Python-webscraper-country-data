@@ -1,2 +1,16 @@
-# Python-webscraper-country-data
-A simple Python scraper that extracts country data from a website, stores it in a SQlite database, and visualizes it using Matplotlib and Seaborn.
+## Install these dependencies:
+
+**for Windows:**
+```bash
+pip install requests beautifulsoup4 pandas sqlalchemy matplotlib seaborn
+```
+
+**for MacOS:**
+```bash
+python3 -m pip install requests beautifulsoup4 pandas sqlalchemy matplotlib seaborn
+```
+
+**for Linux:**
+```bash
+python3 -m pip install requests beautifulsoup4 pandas sqlalchemy matplotlib seaborn
+```
